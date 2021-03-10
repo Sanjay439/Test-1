@@ -6,8 +6,11 @@ public class First{
 		int c=66;
 		int temp;
 		temp= a+b+c;
+		int win=temp/3;
 		System.out.println(temp);
-		System.out.println("63");
+
+		System.out.println(win);
 
 	}
+
 }
